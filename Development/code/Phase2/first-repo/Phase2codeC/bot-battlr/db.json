@@ -1,0 +1,31 @@
+{
+  "bots": [
+    {
+      "id": 1,
+      "name": "Alpha",
+      "health": 120,
+      "damage": 45,
+      "armor": 30,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/alpha.png"
+    },
+    {
+      "id": 2,
+      "name": "Blaster",
+      "health": 100,
+      "damage": 60,
+      "armor": 20,
+      "bot_class": "Support",
+      "avatar_url": "https://robohash.org/blaster.png"
+    },
+    {
+      "id": 3,
+      "name": "Crusher",
+      "health": 150,
+      "damage": 70,
+      "armor": 50,
+      "bot_class": "Tank",
+      "avatar_url": "https://robohash.org/crusher.png"
+    }
+  ]
+}
