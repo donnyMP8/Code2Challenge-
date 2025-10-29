@@ -26,6 +26,159 @@
       "armor": 50,
       "bot_class": "Tank",
       "avatar_url": "https://robohash.org/crusher.png"
+    },
+    {
+      "id": 4,
+      "name": "Dynamo",
+      "health": 110,
+      "damage": 55,
+      "armor": 25,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/dynamo.png"
+    },
+    {
+      "id": 5,
+      "name": "Echo",
+      "health": 90,
+      "damage": 40,
+      "armor": 15,
+      "bot_class": "Support",
+      "avatar_url": "https://robohash.org/echo.png"
+    },
+    {
+      "id": 6,
+      "name": "Fury",
+      "health": 130,
+      "damage": 65,
+      "armor": 35,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/fury.png"
+    },
+    {
+      "id": 7,
+      "name": "Goliath",
+      "health": 160,
+      "damage": 80,
+      "armor": 55,
+      "bot_class": "Tank",
+      "avatar_url": "https://robohash.org/goliath.png"
+    },
+    {
+      "id": 8,
+      "name": "Havoc",
+      "health": 115,
+      "damage": 50,
+      "armor": 28,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/havoc.png"
+    },
+    {
+      "id": 9,
+      "name": "Ion",
+      "health": 95,
+      "damage": 42,
+      "armor": 18,
+      "bot_class": "Support",
+      "avatar_url": "https://robohash.org/ion.png"
+    },
+    {
+      "id": 10,
+      "name": "Juggernaut",
+      "health": 170,
+      "damage": 85,
+      "armor": 60,
+      "bot_class": "Tank",
+      "avatar_url": "https://robohash.org/juggernaut.png"
+    },
+    {
+      "id": 11,
+      "name": "Krypton",
+      "health": 105,
+      "damage": 48,
+      "armor": 22,
+      "bot_class": "Support",
+      "avatar_url": "https://robohash.org/krypton.png"
+    },
+    {
+      "id": 12,
+      "name": "Lancer",
+      "health": 125,
+      "damage": 58,
+      "armor": 32,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/lancer.png"
+    },
+    {
+      "id": 13,
+      "name": "Maverick",
+      "health": 135,
+      "damage": 62,
+      "armor": 38,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/maverick.png"
+    },
+    {
+      "id": 14,
+      "name": "Nova",
+      "health": 85,
+      "damage": 38,
+      "armor": 12,
+      "bot_class": "Support",
+      "avatar_url": "https://robohash.org/nova.png"
+    },
+    {
+      "id": 15,
+      "name": "Obsidian",
+      "health": 180,
+      "damage": 90,
+      "armor": 65,
+      "bot_class": "Tank",
+      "avatar_url": "https://robohash.org/obsidian.png"
+    },
+    {
+      "id": 16,
+      "name": "Phantom",
+      "health": 115,
+      "damage": 53,
+      "armor": 27,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/phantom.png"
+    },
+    {
+      "id": 17,
+      "name": "Quasar",
+      "health": 100,
+      "damage": 45,
+      "armor": 20,
+      "bot_class": "Support",
+      "avatar_url": "https://robohash.org/quasar.png"
+    },
+    {
+      "id": 18,
+      "name": "Raptor",
+      "health": 140,
+      "damage": 68,
+      "armor": 40,
+      "bot_class": "Assault",
+      "avatar_url": "https://robohash.org/raptor.png"
+    },
+    {
+      "id": 19,
+      "name": "Sentinel",
+      "health": 155,
+      "damage": 75,
+      "armor": 50,
+      "bot_class": "Tank",
+      "avatar_url": "https://robohash.org/sentinel.png"
+    },
+    {
+      "id": 20,
+      "name": "Titan",
+      "health": 190,
+      "damage": 95,
+      "armor": 70,
+      "bot_class": "Tank",
+      "avatar_url": "https://robohash.org/titan.png"
     }
   ]
 }
